@@ -9,7 +9,7 @@ const Home = ({results}) => {
 		<div>
 			<Head>
 				<title>Hulu-2.0</title>
-				<meta name='description' content='Made by Pushkal Pandey' />
+		<meta name="google-site-verification" content="Mo84Ww3PrAZSxGRrtPvkl4DnOeOTmYQB7HBgUehR5lM" />
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 
