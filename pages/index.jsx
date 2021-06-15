@@ -18,6 +18,7 @@ const Home = ({results}) => {
 			<NavBar />
 
 			<MovieList list={results}/>
+<p>Pushkal Pandey made this to check if this site has good SEO.</p>
 		</div>
 	);
 };
